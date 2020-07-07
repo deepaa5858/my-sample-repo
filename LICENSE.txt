@@ -1,1 +1,3 @@
-this is fr trail purpose
+# SAMPLE REPOSITORY FOR TRAIL
+
+	this is  my sample project
